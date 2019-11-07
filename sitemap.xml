@@ -11,6 +11,10 @@
   </url>
   
   <url>
+    <loc>http://example.org/_elements/</loc>
+  </url>
+  
+  <url>
     <loc>http://example.org/</loc>
   </url>
   
